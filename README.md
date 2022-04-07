@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sai Prabhath Koneru
 - 👀 I’m interested in Everything
 - 🌱 I’m currently learning Computer Science
-- 📫 Reach me at saiprabhat7@gmail.com.
+- 📫 Reach me at saiprabhat7@live.com.
 
 <!---
 SaiPrabhathK/SaiPrabhathK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
