@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sai Prabhath Koneru
 - 👀 I’m interested in Everything
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science at Missouri University of Science and Technology
 - 📫 Reach me at saiprabhat7@live.com.
 
 <!---
