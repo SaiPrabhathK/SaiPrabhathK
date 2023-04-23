@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sai Prabhath Koneru
-- 👀 I’m interested in Everything
+- 👀 I’m a Multipotentialite
 - 🌱 I’m currently pursuing MS in Computer Science at Missouri University of Science and Technology
 - 📫 Reach me at saiprabhat7@live.com.
 
