@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Sai Prabhath Koneru
 - 👀 I’m a Multipotentialite
-- 🌱 I’m currently pursuing MS in Computer Science at Missouri University of Science and Technology
+- 🖥️ I’ve a Master of Science degree in Computer Science from the Missouri University of Science and Technology
+- 🖨️ I'm passionate about working in the field of Embedded Systems.
+- 🏎️ I love working on cars, want to rebuild an LS1 Engine myself and drive a Catfish Camaro in future
 - 📫 Reach me at saiprabhat7@live.com.
 
 <!---
